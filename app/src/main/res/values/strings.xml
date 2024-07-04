@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Password Manager Application</string>
+    <string name="account_type">Account Type </string>
+    <string name="user_name_email">UserName/Email</string>
+    <string name="password">Password</string>
+    <string name="required_input">%1$s is required.</string>
+    <string name="add_new_account">Add New Account</string>
+    <string name="account_details">Account Details</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="password_manager">Password Manager</string>
+</resources>
